@@ -6,7 +6,7 @@ export const gridData = [
 ]
 
 export const project = [
-  {title:'', id:1},
-  {title:'', id:2},
-  {title:'', id:3},
+  {title:'Blog', id:1, img:'', link:'', description:''},
+  {title:'Streaming Platform', id:2, img:'', link:'', description:''},
+  {title:'CRM Tool', id:3, img:'', link:'', description:''},
 ]
